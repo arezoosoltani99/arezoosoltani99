@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Arezoo 👋
 
-<!--
-**arezoosoltani99/arezoosoltani99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Python developer interested in programming, AI, and creative technology.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python
+- 🐍 Building small projects to improve my skills
+- 🤖 Interested in AI and smart technologies
+- 🎨 Interested in digital art and design
+
+## Skills
+
+- Python (Beginner)
+- Git & GitHub
+- Basic programming concepts
